@@ -13,7 +13,7 @@
 
 	<div id="wrapper">
 		<div id="header">
-			<h2>QEdge Final Assignment - Change</h2>
+			<h2>QEdge Final Assignment - Change 1</h2>
 		</div>
 	</div>
 
